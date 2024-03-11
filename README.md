@@ -1,4 +1,4 @@
-# Codo a Codo
+# Codo a Codo 🚀
 
 Este repositorio corresponde al curso de Desarrollo FullStack JavaScript/Node.js
 

@@ -4,6 +4,7 @@ Este repositorio corresponde al curso de Desarrollo _FullStack JavaScript/Node.j
 
 | Nro. | Ejercicio | Detalle |
 | ---- | --------- | ------- |
-| 1    |           |         |
-| 2    |           |         |
-| 3    |           |         |
+|  1   |           |         |
+|  2   |           |         |
+|  3   |           |         | 
+

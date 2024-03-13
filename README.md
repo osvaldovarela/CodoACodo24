@@ -6,5 +6,5 @@ Este repositorio corresponde al curso de Desarrollo _FullStack JavaScript/Node.j
 | ---- | --------- | ------- |
 |  1   |           |         |
 |  2   |           |         |
-|  3   |           |         | 
+|  3   |           |        
 
